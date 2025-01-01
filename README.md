@@ -1,6 +1,6 @@
 ### NAME : SACHIN.S
 ### REG NO.: 24900576
-# EXP 4:FULL_ADDER_SUBTRACTOR
+# EXP 4:IMPLEMENTATION OF FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
